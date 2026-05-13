@@ -18,5 +18,6 @@ My research interests focus on **Video Generation**, **Embodied AI**, and **MLLM
 
 ### 📫 Contact
 
+- Page: [lyx-junesnow.github.io](https://lyx-junesnow.github.io)
 - Blog: [junesnow.top](https://junesnow.top)
 - Email: [junesnow.lyx@gmail.com](mailto:junesnow.lyx@gmail.com)
