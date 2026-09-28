@@ -1,6 +1,6 @@
 ## Hi there, I'm Yuxin Lu 👋
 
-I'm an undergraduate student at Soochow University, majoring in Data Science and Big Data Technology.
+I am currently an undergraduate student at **Soochow University**, majoring in **Data Science and Big Data Technology**, and will pursue my graduate studies at **Fudan University** starting in Fall 2027.
 
 I am interested in **Video Generation**, **Embodied AI**, and **MLLM**, especially research with strong real-world application value.
 
